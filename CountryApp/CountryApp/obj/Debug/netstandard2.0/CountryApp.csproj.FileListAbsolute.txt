@@ -1,0 +1,17 @@
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\CountryApp.csproj.AssemblyReference.cache
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\CountryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\CountryApp.AssemblyInfoInputs.cache
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\CountryApp.AssemblyInfo.cs
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\CountryApp.csproj.CoreCompileInputs.cache
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\CountryApp.dll
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\ref\CountryApp.dll
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\CountryApp.pdb
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\bin\Debug\netstandard2.0\CountryApp.deps.json
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\bin\Debug\netstandard2.0\CountryApp.dll
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\bin\Debug\netstandard2.0\ref\CountryApp.dll
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\bin\Debug\netstandard2.0\CountryApp.pdb
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Practice Projects\mobile\CountryApp\CountryApp\CountryApp\obj\Debug\netstandard2.0\NewCountryPage.xaml.g.cs
